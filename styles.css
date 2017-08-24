@@ -1,4 +1,5 @@
 body {
+  margin: 0;
   background: black;
   color: white;
   font-family: sans-serif;
@@ -9,7 +10,8 @@ body {
 #main {
   background-image: url(img/main-bg.jpeg);
   background-position: center;
-  height: 98vh;
+  height: 100vh;
+  width: 100vw;
   background-size: auto 98vh;
   background-repeat: no-repeat;
 }
